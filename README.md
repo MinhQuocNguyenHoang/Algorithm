@@ -5,6 +5,7 @@
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/MinhQuocNguyenHoang/Embedded-Algorithm-FTEL-BOOTCAMP/tree/main/0049-group-anagrams/) | Medium |
 | [0088-merge-sorted-array](https://github.com/MinhQuocNguyenHoang/Embedded-Algorithm-FTEL-BOOTCAMP/tree/main/0088-merge-sorted-array/) | Easy |
+| [0150-evaluate-reverse-polish-notation](https://github.com/MinhQuocNguyenHoang/Embedded-Algorithm-FTEL-BOOTCAMP/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/MinhQuocNguyenHoang/Embedded-Algorithm-FTEL-BOOTCAMP/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/MinhQuocNguyenHoang/Embedded-Algorithm-FTEL-BOOTCAMP/tree/main/0739-daily-temperatures/) | Medium |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/MinhQuocNguyenHoang/Embedded-Algorithm-FTEL-BOOTCAMP/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
@@ -34,6 +35,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/MinhQuocNguyenHoang/Embedded-Algorithm-FTEL-BOOTCAMP/tree/main/0020-valid-parentheses/) | Easy |
+| [0150-evaluate-reverse-polish-notation](https://github.com/MinhQuocNguyenHoang/Embedded-Algorithm-FTEL-BOOTCAMP/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/MinhQuocNguyenHoang/Algorithm/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/MinhQuocNguyenHoang/Algorithm/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0739-daily-temperatures](https://github.com/MinhQuocNguyenHoang/Embedded-Algorithm-FTEL-BOOTCAMP/tree/main/0739-daily-temperatures/) | Medium |
@@ -96,4 +98,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0739-daily-temperatures](https://github.com/MinhQuocNguyenHoang/Embedded-Algorithm-FTEL-BOOTCAMP/tree/main/0739-daily-temperatures/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/MinhQuocNguyenHoang/Embedded-Algorithm-FTEL-BOOTCAMP/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 <!---LeetCode Topics End-->
