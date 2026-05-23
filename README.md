@@ -30,6 +30,7 @@
 | [0383-ransom-note](https://github.com/MinhQuocNguyenHoang/Embedded-Algorithm-FTEL-BOOTCAMP/tree/main/0383-ransom-note/) | Easy |
 | [0389-find-the-difference](https://github.com/MinhQuocNguyenHoang/Embedded-Algorithm-FTEL-BOOTCAMP/tree/main/0389-find-the-difference/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/MinhQuocNguyenHoang/Embedded-Algorithm-FTEL-BOOTCAMP/tree/main/0657-robot-return-to-origin/) | Easy |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/MinhQuocNguyenHoang/Algorithm/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
 | [1544-make-the-string-great](https://github.com/MinhQuocNguyenHoang/Algorithm/tree/main/1544-make-the-string-great/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/MinhQuocNguyenHoang/Embedded-Algorithm-FTEL-BOOTCAMP/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 ## Stack
@@ -41,6 +42,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/MinhQuocNguyenHoang/Algorithm/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0735-asteroid-collision](https://github.com/MinhQuocNguyenHoang/Embedded-Algorithm-FTEL-BOOTCAMP/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/MinhQuocNguyenHoang/Embedded-Algorithm-FTEL-BOOTCAMP/tree/main/0739-daily-temperatures/) | Medium |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/MinhQuocNguyenHoang/Algorithm/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
 | [1544-make-the-string-great](https://github.com/MinhQuocNguyenHoang/Algorithm/tree/main/1544-make-the-string-great/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
