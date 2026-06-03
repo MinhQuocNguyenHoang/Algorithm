@@ -6,6 +6,7 @@
 | [0049-group-anagrams](https://github.com/MinhQuocNguyenHoang/Embedded-Algorithm-FTEL-BOOTCAMP/tree/main/0049-group-anagrams/) | Medium |
 | [0088-merge-sorted-array](https://github.com/MinhQuocNguyenHoang/Embedded-Algorithm-FTEL-BOOTCAMP/tree/main/0088-merge-sorted-array/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/MinhQuocNguyenHoang/Embedded-Algorithm-FTEL-BOOTCAMP/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0217-contains-duplicate](https://github.com/MinhQuocNguyenHoang/Embedded-Algorithm-FTEL-BOOTCAMP/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/MinhQuocNguyenHoang/Embedded-Algorithm-FTEL-BOOTCAMP/tree/main/0268-missing-number/) | Easy |
 | [0414-third-maximum-number](https://github.com/MinhQuocNguyenHoang/Embedded-Algorithm-FTEL-BOOTCAMP/tree/main/0414-third-maximum-number/) | Easy |
 | [0561-array-partition](https://github.com/MinhQuocNguyenHoang/Algorithm/tree/main/0561-array-partition/) | Easy |
@@ -25,6 +26,7 @@
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/MinhQuocNguyenHoang/Embedded-Algorithm-FTEL-BOOTCAMP/tree/main/0049-group-anagrams/) | Medium |
 | [0088-merge-sorted-array](https://github.com/MinhQuocNguyenHoang/Embedded-Algorithm-FTEL-BOOTCAMP/tree/main/0088-merge-sorted-array/) | Easy |
+| [0217-contains-duplicate](https://github.com/MinhQuocNguyenHoang/Embedded-Algorithm-FTEL-BOOTCAMP/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/MinhQuocNguyenHoang/Embedded-Algorithm-FTEL-BOOTCAMP/tree/main/0268-missing-number/) | Easy |
 | [0389-find-the-difference](https://github.com/MinhQuocNguyenHoang/Embedded-Algorithm-FTEL-BOOTCAMP/tree/main/0389-find-the-difference/) | Easy |
 | [0414-third-maximum-number](https://github.com/MinhQuocNguyenHoang/Embedded-Algorithm-FTEL-BOOTCAMP/tree/main/0414-third-maximum-number/) | Easy |
@@ -63,6 +65,7 @@
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MinhQuocNguyenHoang/Embedded-Algorithm-FTEL-BOOTCAMP/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0049-group-anagrams](https://github.com/MinhQuocNguyenHoang/Embedded-Algorithm-FTEL-BOOTCAMP/tree/main/0049-group-anagrams/) | Medium |
+| [0217-contains-duplicate](https://github.com/MinhQuocNguyenHoang/Embedded-Algorithm-FTEL-BOOTCAMP/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/MinhQuocNguyenHoang/Embedded-Algorithm-FTEL-BOOTCAMP/tree/main/0268-missing-number/) | Easy |
 | [0383-ransom-note](https://github.com/MinhQuocNguyenHoang/Embedded-Algorithm-FTEL-BOOTCAMP/tree/main/0383-ransom-note/) | Easy |
 | [0389-find-the-difference](https://github.com/MinhQuocNguyenHoang/Embedded-Algorithm-FTEL-BOOTCAMP/tree/main/0389-find-the-difference/) | Easy |
