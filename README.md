@@ -19,6 +19,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0086-partition-list](https://github.com/MinhQuocNguyenHoang/Algorithm/tree/main/0086-partition-list/) | Medium |
 | [0088-merge-sorted-array](https://github.com/MinhQuocNguyenHoang/Embedded-Algorithm-FTEL-BOOTCAMP/tree/main/0088-merge-sorted-array/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/MinhQuocNguyenHoang/Algorithm/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Sorting
@@ -86,6 +87,7 @@
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0086-partition-list](https://github.com/MinhQuocNguyenHoang/Algorithm/tree/main/0086-partition-list/) | Medium |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/MinhQuocNguyenHoang/Algorithm/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/MinhQuocNguyenHoang/Embedded-Algorithm-FTEL-BOOTCAMP/tree/main/0203-remove-linked-list-elements/) | Easy |
 ## Divide and Conquer
