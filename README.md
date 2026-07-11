@@ -11,6 +11,7 @@
 | [0217-contains-duplicate](https://github.com/MinhQuocNguyenHoang/Embedded-Algorithm-FTEL-BOOTCAMP/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/MinhQuocNguyenHoang/Embedded-Algorithm-FTEL-BOOTCAMP/tree/main/0268-missing-number/) | Easy |
 | [0414-third-maximum-number](https://github.com/MinhQuocNguyenHoang/Embedded-Algorithm-FTEL-BOOTCAMP/tree/main/0414-third-maximum-number/) | Easy |
+| [0463-island-perimeter](https://github.com/MinhQuocNguyenHoang/Embedded-Algorithm-FTEL-BOOTCAMP/tree/main/0463-island-perimeter/) | Easy |
 | [0561-array-partition](https://github.com/MinhQuocNguyenHoang/Algorithm/tree/main/0561-array-partition/) | Easy |
 | [0622-design-circular-queue](https://github.com/MinhQuocNguyenHoang/Embedded-Algorithm-FTEL-BOOTCAMP/tree/main/0622-design-circular-queue/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/MinhQuocNguyenHoang/Embedded-Algorithm-FTEL-BOOTCAMP/tree/main/0643-maximum-average-subarray-i/) | Easy |
@@ -158,8 +159,14 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/MinhQuocNguyenHoang/Embedded-Algorithm-FTEL-BOOTCAMP/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
+| [0463-island-perimeter](https://github.com/MinhQuocNguyenHoang/Embedded-Algorithm-FTEL-BOOTCAMP/tree/main/0463-island-perimeter/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/MinhQuocNguyenHoang/Embedded-Algorithm-FTEL-BOOTCAMP/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
+| [0463-island-perimeter](https://github.com/MinhQuocNguyenHoang/Embedded-Algorithm-FTEL-BOOTCAMP/tree/main/0463-island-perimeter/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0463-island-perimeter](https://github.com/MinhQuocNguyenHoang/Embedded-Algorithm-FTEL-BOOTCAMP/tree/main/0463-island-perimeter/) | Easy |
 <!---LeetCode Topics End-->
